@@ -11,8 +11,8 @@ jobs:
     - name: 📂 Sync files
       uses: SamKirkland/FTP-Deploy-Action@v4.3.4
       with:
-        server: devtales.xyz
-        username: leopard
+        server: dojolom.me
+        username: leopard@dojolom.me
         password: HeyDojo
         protocol: ftps
         server-dir: /
