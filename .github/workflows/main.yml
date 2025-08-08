@@ -13,6 +13,6 @@ jobs:
       with:
         server: dojolom.me
         username: leopard@dojolom.me
-        password: HeyDojo
+        password: HeyDojo001
         protocol: ftps
         server-dir: /
